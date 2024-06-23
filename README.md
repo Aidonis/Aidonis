@@ -1,4 +1,9 @@
-## Hi there 👋
+# 🏂 Aidan Nabass
+
+**`Software Developer (Games/Tools/Design)`**
+<!--
+  Create a developer profile here. It can be a simple plain text introduction or something a bit fancier!
+-->
 
 <!--
 **Aidonis/Aidonis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
