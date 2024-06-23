@@ -32,13 +32,15 @@
 ### Past Projects
   #### Bungie
   <p>
-  <img style="width: 270px" src="https://imguscdn.gamespress.com/cdn/files/Bungie/2023/05/242105-9a659b38/Marathon_Announce_key_art_16x9_alt.jpg?otf=y&lightbox=y&ex=2024-08-01+03%3A00%3A00&sky=8aa0955480f9fdedb9b1a46cfdc9731cfe98d22731e0a25a02b79a30d0a3609c&w=1024&maxheight=4096&mode=pad&format=jpg"/>
-  <img style="width: 270px" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1085660/header.jpg?t=1718733061"/>
+  <img style="width: 185px" src="https://imguscdn.gamespress.com/cdn/files/Bungie/2023/05/242105-9a659b38/Marathon_Announce_key_art_16x9_alt.jpg?otf=y&lightbox=y&ex=2024-08-01+03%3A00%3A00&sky=8aa0955480f9fdedb9b1a46cfdc9731cfe98d22731e0a25a02b79a30d0a3609c&w=1024&maxheight=4096&mode=pad&format=jpg"/>
+  <img style="width: 185px" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1085660/header.jpg?t=1718733061"/>
   </p>
   
   #### Harebrained Schemes
-  <a href="https://store.steampowered.com/app/637090/BATTLETECH/"><img style="width: 270px" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/637090/header.jpg?t=1702023399"/></a>
-  <a href="https://store.steampowered.com/app/346940/Shadowrun_Hong_Kong__Extended_Edition/"><img style="width: 270px" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/346940/header.jpg?t=1709815037"/></a>
+  <p>
+  <a href="https://store.steampowered.com/app/637090/BATTLETECH/"><img style="width: 185px" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/637090/header.jpg?t=1702023399"/></a>
+  <a href="https://store.steampowered.com/app/346940/Shadowrun_Hong_Kong__Extended_Edition/"><img style="width: 185px" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/346940/header.jpg?t=1709815037"/></a>
+  </p>
   
           
           
