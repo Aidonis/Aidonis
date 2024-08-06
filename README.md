@@ -32,7 +32,7 @@
 ### Past Projects
   #### Bungie
   <p>
-  <img style="width: 185px" src="https://imguscdn.gamespress.com/cdn/files/Bungie/2023/05/242105-9a659b38/Marathon_Announce_key_art_16x9_alt.jpg?otf=y&lightbox=y&ex=2024-08-01+03%3A00%3A00&sky=8aa0955480f9fdedb9b1a46cfdc9731cfe98d22731e0a25a02b79a30d0a3609c&w=1024&maxheight=4096&mode=pad&format=jpg"/>
+  <img style="width: 185px" src="https://imguscdn.gamespress.com/cdn/files/Bungie/2023/05/242105-9a659b38/Marathon_Announce_key_art_16x9_alt.jpg?otf=y&lightbox=y&ex=2024-10-01+03%3A00%3A00&sky=5c1e3ae10ec0245bd7241976e17b12ef829a831569e586e2f9cb65b6c384d2a9&w=1024&maxheight=4096&mode=pad&format=jpg"/>
   <img style="width: 185px" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1085660/header.jpg?t=1718733061"/>
   </p>
   
